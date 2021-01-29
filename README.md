@@ -6,4 +6,5 @@
 最后在mysql中创建对应的表即可运行
 
 ###效果图:
+
 ![image](https://github.com/820421241mjh/GradeManagementSystem/blob/master/7P4AG%5DC9I%5D77UP(U%24%5D_%25JUW.png)
