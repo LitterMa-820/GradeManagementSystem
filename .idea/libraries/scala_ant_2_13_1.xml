@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala-ant-2.13.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../code/java_code/MangodbTest/mongo-java-driver-master/gradle/scala/lib/scala-ant-2.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
