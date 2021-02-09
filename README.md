@@ -7,4 +7,4 @@
 
 ### 效果图:
 
-![image](/image/效果图.png)
+![image](image/效果图.png)
