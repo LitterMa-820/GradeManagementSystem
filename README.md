@@ -6,5 +6,5 @@
 最后在mysql中创建对应的表即可运行
 
 ### 效果图:
-
+<img alt="GitHub release" src="https://img.shields.io/github/release/halo-dev/halo.svg?style=flat-square"/>
 ![image](image/效果图.png)
