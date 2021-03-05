@@ -6,5 +6,5 @@
 最后在mysql中创建对应的表即可运行
 
 ### 效果图:
-<img alt="GitHub release" src="image/效果图.png、">
+<img alt="GitHub release" src="https://github.com/LitterMa-820/GradeManagementSystem/blob/master/image/%E6%95%88%E6%9E%9C%E5%9B%BE.png/">
 ![image](image/效果图.png)
